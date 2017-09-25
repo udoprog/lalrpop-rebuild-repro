@@ -1,0 +1,161 @@
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libparser-3a6c25c69d06895d.rlib", Some("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/libparser.rlib"), true)]
+WARN:cargo::sources::path: list_files_git parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser)
+WARN:cargo::sources::path:   found /home/udoprog/repo/lalrpop-rebuild-repro/parser/.gitignore
+WARN:cargo::sources::path:   found /home/udoprog/repo/lalrpop-rebuild-repro/parser/Cargo.toml
+WARN:cargo::sources::path:   found /home/udoprog/repo/lalrpop-rebuild-repro/parser/build.rs
+WARN:cargo::sources::path:   found /home/udoprog/repo/lalrpop-rebuild-repro/parser/src/lib.rs
+WARN:cargo::sources::path: 1506367647.407912208s /home/udoprog/repo/lalrpop-rebuild-repro/parser/.gitignore
+WARN:cargo::sources::path: 1506367647.407912208s /home/udoprog/repo/lalrpop-rebuild-repro/parser/Cargo.toml
+WARN:cargo::sources::path: 1506367647.407912208s /home/udoprog/repo/lalrpop-rebuild-repro/parser/build.rs
+WARN:cargo::sources::path: 1506367647.407912208s /home/udoprog/repo/lalrpop-rebuild-repro/parser/src/lib.rs
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/build/parser-16c9b84127114ac6/build_script_build-16c9b84127114ac6", Some("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/build/parser-16c9b84127114ac6/build-script-build"), false)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/liblalrpop-c45a72049d810e22.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/liblalrpop_intern-291de471362e3424.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libdiff-11c982e1b50a7735.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libatty-2ede1cf195a0ba05.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libpetgraph-abebcd613b3f9e0c.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libascii_canvas-f2411173c95182e4.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libunicode_xid-7c94d8a4e286ce38.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libterm-1a909126ab44b0e9.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/liblalrpop_util-2b89389880fb758d.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libdocopt-34b04380903bd6e0.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libbit_set-59ea71d9413e2574.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/librustc_serialize-0aa6d31f61747e91.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libitertools-4fbe93bcf3bda192.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libena-36205e03f386de6a.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libregex-7511c514ce5a0462.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libregex_syntax-c5bdc74ddc40ef78.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libwinapi-666605efc130136b.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/liblibc-42d545fb6705d4a2.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libkernel32-b0c3dbfe20ca5e9e.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/build/kernel32-sys-430a5ae0bc2f5a0e/build_script_build-430a5ae0bc2f5a0e", Some("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/build/kernel32-sys-430a5ae0bc2f5a0e/build-script-build"), false)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libbuild-430ee0d90b072a5e.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libordermap-81c256c355c1ebaa.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libfixedbitset-238ab7b459edb931.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libstrsim-3003a1a64278977c.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/liblazy_static-d0e2ba5cf3e94880.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libutf8_ranges-bf65ade1f9382b12.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libmemchr-be49c4722e8b48bf.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libaho_corasick-9539df2941f11a9f.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libthread_local-98ad10f004a696b2.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libunreachable-5f126a0d3c68f2a1.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libvoid-e02ba4bc88ec1ff2.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libbit_vec-0b3e553a0b258321.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/libeither-6e2be889664ba877.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/build/lalrpop-15bcf9713f65c78c/build_script_build-15bcf9713f65c78c", Some("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/build/lalrpop-15bcf9713f65c78c/build-script-build"), false)]
+INFO:cargo::ops::cargo_rustc::context: Target filenames: [("/home/udoprog/repo/lalrpop-rebuild-repro/target/debug/deps/liblalrpop_snap-03af1f96fbfa258c.rlib", None, true)]
+INFO:cargo::ops::cargo_rustc::job_queue: start: either v1.1.0 => Target(lib)/Profile(build) => Host
+       Fresh either v1.1.0
+INFO:cargo::ops::cargo_rustc::job_queue: start: ordermap v0.2.12 => Target(lib)/Profile(build) => Host
+       Fresh ordermap v0.2.12
+INFO:cargo::ops::cargo_rustc::job_queue: start: fixedbitset v0.1.8 => Target(lib)/Profile(build) => Host
+       Fresh fixedbitset v0.1.8
+INFO:cargo::ops::cargo_rustc::job_queue: start: strsim v0.6.0 => Target(lib)/Profile(build) => Host
+       Fresh strsim v0.6.0
+INFO:cargo::ops::cargo_rustc::job_queue: start: void v1.0.2 => Target(lib)/Profile(build) => Host
+       Fresh void v1.0.2
+INFO:cargo::ops::cargo_rustc::job_queue: start: winapi v0.2.8 => Target(lib)/Profile(build) => Host
+       Fresh winapi v0.2.8
+INFO:cargo::ops::cargo_rustc::job_queue: start: lalrpop-util v0.13.1 => Target(lib)/Profile(build) => Host
+       Fresh lalrpop-util v0.13.1
+INFO:cargo::ops::cargo_rustc::job_queue: start: libc v0.2.31 => Target(lib)/Profile(build) => Host
+       Fresh libc v0.2.31
+INFO:cargo::ops::cargo_rustc::job_queue: end: either v1.1.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: ordermap v0.2.12 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: fixedbitset v0.1.8 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: strsim v0.6.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: void v1.0.2 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: winapi v0.2.8 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: lalrpop-util v0.13.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: libc v0.2.31 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: term v0.4.6 => Target(lib)/Profile(build) => Host
+       Fresh term v0.4.6
+INFO:cargo::ops::cargo_rustc::job_queue: start: utf8-ranges v1.0.0 => Target(lib)/Profile(build) => Host
+       Fresh utf8-ranges v1.0.0
+INFO:cargo::ops::cargo_rustc::job_queue: start: rustc-serialize v0.3.24 => Target(lib)/Profile(build) => Host
+       Fresh rustc-serialize v0.3.24
+INFO:cargo::ops::cargo_rustc::job_queue: start: winapi-build v0.1.1 => Target(lib)/Profile(build) => Host
+       Fresh winapi-build v0.1.1
+INFO:cargo::ops::cargo_rustc::job_queue: start: unicode-xid v0.0.4 => Target(lib)/Profile(build) => Host
+       Fresh unicode-xid v0.0.4
+INFO:cargo::ops::cargo_rustc::job_queue: start: lalrpop-intern v0.13.1 => Target(lib)/Profile(build) => Host
+       Fresh lalrpop-intern v0.13.1
+INFO:cargo::ops::cargo_rustc::job_queue: start: lazy_static v0.2.8 => Target(lib)/Profile(build) => Host
+       Fresh lazy_static v0.2.8
+INFO:cargo::ops::cargo_rustc::job_queue: start: regex-syntax v0.4.1 => Target(lib)/Profile(build) => Host
+       Fresh regex-syntax v0.4.1
+INFO:cargo::ops::cargo_rustc::job_queue: end: term v0.4.6 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: utf8-ranges v1.0.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: rustc-serialize v0.3.24 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: winapi-build v0.1.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: unicode-xid v0.0.4 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: lalrpop-intern v0.13.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: lazy_static v0.2.8 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: regex-syntax v0.4.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: ena v0.5.0 => Target(lib)/Profile(build) => Host
+       Fresh ena v0.5.0
+INFO:cargo::ops::cargo_rustc::job_queue: start: bit-vec v0.4.4 => Target(lib)/Profile(build) => Host
+       Fresh bit-vec v0.4.4
+INFO:cargo::ops::cargo_rustc::job_queue: start: diff v0.1.10 => Target(lib)/Profile(build) => Host
+       Fresh diff v0.1.10
+INFO:cargo::ops::cargo_rustc::job_queue: start: itertools v0.5.10 => Target(lib)/Profile(build) => Host
+       Fresh itertools v0.5.10
+INFO:cargo::ops::cargo_rustc::job_queue: start: petgraph v0.4.8 => Target(lib)/Profile(build) => Host
+       Fresh petgraph v0.4.8
+INFO:cargo::ops::cargo_rustc::job_queue: start: unreachable v1.0.0 => Target(lib)/Profile(build) => Host
+       Fresh unreachable v1.0.0
+INFO:cargo::ops::cargo_rustc::job_queue: start: memchr v1.0.1 => Target(lib)/Profile(build) => Host
+       Fresh memchr v1.0.1
+INFO:cargo::ops::cargo_rustc::job_queue: start: ascii-canvas v1.0.0 => Target(lib)/Profile(build) => Host
+       Fresh ascii-canvas v1.0.0
+INFO:cargo::ops::cargo_rustc::job_queue: end: ena v0.5.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: bit-vec v0.4.4 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: diff v0.1.10 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: itertools v0.5.10 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: petgraph v0.4.8 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: unreachable v1.0.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: memchr v1.0.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: ascii-canvas v1.0.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: kernel32-sys v0.2.2 => Target(script)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: bit-set v0.4.0 => Target(lib)/Profile(build) => Host
+       Fresh bit-set v0.4.0
+INFO:cargo::ops::cargo_rustc::job_queue: start: thread_local v0.3.4 => Target(lib)/Profile(build) => Host
+       Fresh thread_local v0.3.4
+INFO:cargo::ops::cargo_rustc::job_queue: start: aho-corasick v0.6.3 => Target(lib)/Profile(build) => Host
+       Fresh aho-corasick v0.6.3
+INFO:cargo::ops::cargo_rustc::job_queue: end: kernel32-sys v0.2.2 => Target(script)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: bit-set v0.4.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: thread_local v0.3.4 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: aho-corasick v0.6.3 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: kernel32-sys v0.2.2 => Target(script)/Profile(run) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: regex v0.2.2 => Target(lib)/Profile(build) => Host
+       Fresh regex v0.2.2
+INFO:cargo::ops::cargo_rustc::job_queue: end: kernel32-sys v0.2.2 => Target(script)/Profile(run) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: regex v0.2.2 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: kernel32-sys v0.2.2 => Target(lib)/Profile(build) => Host
+       Fresh kernel32-sys v0.2.2
+INFO:cargo::ops::cargo_rustc::job_queue: start: docopt v0.7.0 => Target(lib)/Profile(build) => Host
+       Fresh docopt v0.7.0
+INFO:cargo::ops::cargo_rustc::job_queue: end: kernel32-sys v0.2.2 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: docopt v0.7.0 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: atty v0.1.2 => Target(lib)/Profile(build) => Host
+       Fresh atty v0.1.2
+INFO:cargo::ops::cargo_rustc::job_queue: end: atty v0.1.2 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: lalrpop-snap v0.13.1 => Target(lib)/Profile(build) => Host
+       Fresh lalrpop-snap v0.13.1
+INFO:cargo::ops::cargo_rustc::job_queue: end: lalrpop-snap v0.13.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: lalrpop v0.13.1 => Target(script)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: lalrpop v0.13.1 => Target(script)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: lalrpop v0.13.1 => Target(script)/Profile(run) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: lalrpop v0.13.1 => Target(script)/Profile(run) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: lalrpop v0.13.1 => Target(lib)/Profile(build) => Host
+       Fresh lalrpop v0.13.1
+INFO:cargo::ops::cargo_rustc::job_queue: end: lalrpop v0.13.1 => Target(lib)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser) => Target(script)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser) => Target(script)/Profile(build) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser) => Target(script)/Profile(run) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: end: parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser) => Target(script)/Profile(run) => Host
+INFO:cargo::ops::cargo_rustc::job_queue: start: parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser) => Target(lib)/Profile(build) => Host
+       Fresh parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser)
+INFO:cargo::ops::cargo_rustc::job_queue: end: parser v0.1.0 (file:///home/udoprog/repo/lalrpop-rebuild-repro/parser) => Target(lib)/Profile(build) => Host
+    Finished dev [unoptimized + debuginfo] target(s) in 0.0 secs
