@@ -1,0 +1,9 @@
+[package]
+name = "cli"
+version = "0.1.0"
+authors = ["John-John Tedro <udoprog@tedro.se>"]
+
+[dependencies]
+parser = {path = "../parser", version = "0.1"}
+
+ring = "0.12"

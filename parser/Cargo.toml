@@ -1,0 +1,7 @@
+[package]
+name = "parser"
+version = "0.1.0"
+authors = ["John-John Tedro <udoprog@tedro.se>"]
+
+[build-dependencies]
+lalrpop = "0.13.1"
