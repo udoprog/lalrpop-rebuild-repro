@@ -1,5 +1,5 @@
 [workspace]
 members = [
-  "parser",
-  "cli",
+  "a",
+  "b",
 ]

@@ -1,0 +1,9 @@
+[package]
+name = "a"
+version = "0.1.0"
+authors = ["John-John Tedro <udoprog@tedro.se>"]
+
+[dependencies]
+b = {path = "../b", version = "0.1"}
+
+either = "1.0"

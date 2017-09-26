@@ -3,10 +3,10 @@
 To reproduce:
 
 ```bash
-$> cargo build --manifest-path cli/Cargo.toml
-$> cargo build --manifest-path parser/Cargo.toml
+$> cargo build --manifest-path a/Cargo.toml
+$> cargo build --manifest-path b/Cargo.toml
 ```
 
-The `parser` module is already part of the `cli` build as a dependency, and should not be rebuilt.
+The `b` module is already part of the `a` build as a dependency, and should not be rebuilt.
 
-Removing `parser/build.rs` after the initial run avoids this.
+Also see [`run-tests.sh`](run-tests.sh) for a convenient way to reproduce the test above.
